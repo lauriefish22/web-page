@@ -1,3 +1,10 @@
 * {
     font-family: 'Trebuchet MS', sans-serif;
 }
+header {
+    color: red;
+}
+.caption {
+    font-size: 32px;
+    font-style: italic;
+}
